@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TravelingInfo - AI-Powered Travel Planning Web Application
 
-# Run and deploy your AI Studio app
+## a. About The Project
+**TravelingInfo** is a modern AI-powered travel planning web application.
 
-This contains everything you need to run your app locally.
+**Real Problem It Solves:** 
+Travelers waste hours searching for destinations, hotels, flights, and local tips. TravelingInfo gives everything in one place + AI suggests personalized travel plans, budget, and places to visit.
 
-View your app in AI Studio: https://ai.studio/apps/4439baf9-c068-4ac0-a943-58ffa1c1c98c
+**For Whom:** 
+Tourists, students, and families who want to plan trips easily without using 10 different websites.
 
-## Run Locally
+## b. Live Demo
+**Live URL:** [https://your-travelinginfo.vercel.app](https://your-travelinginfo.vercel.app) 
+*Apna Vercel link yahan daalo*
 
-**Prerequisites:**  Node.js
+## c. Key Features
+- **Authentication**: Login, Register, Forgot Password
+- **Destination Search**: Search cities, countries with images and info
+- **AI Travel Planner**: AI creates day-wise itinerary based on budget and days
+- **Hotel & Flight Finder**: Search and compare options
+- **Budget Calculator**: AI estimates trip cost
+- **Weather & Map Integration**: Google Maps + weather info
+- **Save Trips**: Save favorite destinations and plans
+- **Dark Mode**: Light/Dark theme toggle
+- **Admin Panel**: Manage destinations and users
 
+## d. The AI Feature
+**Feature Name:** AI Travel Planner & Recommender
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**What it does:**
+User enters: "7 days trip to Dubai with 2000$ budget". AI returns day-wise itinerary, places to visit, food suggestions, and budget breakdown.
+
+**System Prompt / Instructions used:**
