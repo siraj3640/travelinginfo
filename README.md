@@ -32,8 +32,9 @@ User enters: "7 days trip to Dubai with 2000$ budget". AI returns day-wise itine
 
 **System Prompt / Instructions used:**
 
-1st Screenshot (https://github.com/siraj3640/travelinginfo/blob/c2915eea4ebc7bba75a628f43770ebe436519bdd/Screenshot%202026-07-27%20025940.png)
+Home page Screenshot (https://github.com/siraj3640/travelinginfo/blob/c2915eea4ebc7bba75a628f43770ebe436519bdd/Screenshot%202026-07-27%20025940.png)
 
 AI Assistant Respose Screenshot  (https://github.com/siraj3640/travelinginfo/blob/78817662f3ce8dc364ed74653c098d2636546b58/Screenshot%202026-07-27%20044924.png)
 
-3rd Screenshot  (https://github.com/siraj3640/travelinginfo/blob/a8c36cbecf5e031d0114a2557ea717b9240bb4db/screenshots%202026-07-27%20at%202.20.02%20AM.jpegv)
+Root Srearching Screenshot
+(https://github.com/siraj3640/travelinginfo/blob/a8c36cbecf5e031d0114a2557ea717b9240bb4db/screenshots%202026-07-27%20at%202.20.02%20AM.jpegv)
