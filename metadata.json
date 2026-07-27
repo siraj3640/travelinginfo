@@ -1,0 +1,6 @@
+{
+  "name": "travelinginfo",
+  "description": "Full-stack travel booking platform featuring bus company schedules, interactive seat reservation, user profile management, and an AI travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
