@@ -11,8 +11,6 @@ Tourists, students, and families who want to plan trips easily without using 10 
 
 ## b. Live Demo
 **Live URL:** [https://your-travelinginfo.vercel.app](https://your-travelinginfo.vercel.app) 
-*Apna Vercel link yahan daalo*
-
 ## c. Key Features
 - **Authentication**: Login, Register, Forgot Password
 - **Destination Search**: Search cities, countries with images and info
