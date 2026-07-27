@@ -1,5 +1,7 @@
 # TravelingInfo - AI-Powered Travel Planning Web Application
 
+My live App URL  (https://travelinginfo-2cgtt3mru-siraj-baloch.vercel.app/)
+
 ## a. About The Project
 **TravelingInfo** is a modern AI-powered travel planning web application.
 
