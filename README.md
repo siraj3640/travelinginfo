@@ -29,3 +29,5 @@ Tourists, students, and families who want to plan trips easily without using 10 
 User enters: "7 days trip to Dubai with 2000$ budget". AI returns day-wise itinerary, places to visit, food suggestions, and budget breakdown.
 
 **System Prompt / Instructions used:**
+
+1st Screenshot (https://github.com/siraj3640/travelinginfo/blob/c2915eea4ebc7bba75a628f43770ebe436519bdd/Screenshot%202026-07-27%20025940.png)
